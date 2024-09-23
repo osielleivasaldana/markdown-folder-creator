@@ -110,7 +110,7 @@ create_structure_from_markdown('mi_estructura.md')
 # Para especificar el directorio base manualmente:
 create_structure_from_markdown('estructura.md', 'mi_proyecto')
 `
-Manejo de Errores:
+Manejo de Errores
 
 Asegúrate de que el archivo Markdown esté correctamente formateado y que no contenga errores de sintaxis. Si el script encuentra un problema, imprimirá un mensaje de error en la consola.
 
